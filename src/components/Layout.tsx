@@ -23,11 +23,11 @@ const Layout = ({ children }) => {
                     About
                   </a>
                 </Link>
-                <Link href="/terms-of-sale">
+                {/* <Link href="/terms-of-sale">
                   <a className="text-gray-800 hover:text-blue-600 p-1 transition">
                     Terms of Sale
                   </a>
-                </Link>
+                </Link> */}
               </nav>
             </div>
             <div className="flex-1 flex items-center justify-center">
