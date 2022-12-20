@@ -5,7 +5,7 @@ const url = "https://www.nbdyknows.com";
 
 const seo = {
   title,
-  titleTemplate: "%s | NBDY KNOWS",
+  titleTemplate: "%s | nbdyknows.com",
   description,
   openGraph: {
     description,
